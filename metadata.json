@@ -1,0 +1,6 @@
+{
+  "name": "LocalLink",
+  "description": "Local service booking platform featuring AI-powered job diagnostics, dual-mode Customer Portal and Provider Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
